@@ -1,0 +1,32 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "React Learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-amit21/namaste-react-learn.git"
+  },
+  "author": "Amit Sarode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-amit21/namaste-react-learn/issues"
+  },
+  "homepage": "https://github.com/im-amit21/namaste-react-learn#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last two chrome version"
+  ]
+}
